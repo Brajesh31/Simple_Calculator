@@ -1,0 +1,13 @@
+node_modules/
+
+# build output
+build/
+
+dist
+
+# ignore all bootsrap file 
+src/css/bootstrap-5.2.3/dist/*
+
+!src/css/bootstrap-5.2.3/dist/css/bootstrap.min.css
+!src/css/bootstrap-5.2.3/dist/css/bootstrap.min.js
+
