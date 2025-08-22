@@ -80,18 +80,3 @@ All you need is a modern web browser (e.g., Google Chrome, Firefox, Safari).
 ## ## 📁 File Structure
 
 The project follows a standard and simple file structure.
-Simple_Calculator/
-├── index.html         # The main HTML file for the calculator structure
-├── style.css          # All CSS styles for the layout and appearance
-└── script.js          # JavaScript logic for all calculations and event handling
-
-
----
-## ## 📜 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
----
-## ## 📬 Contact
-
-Brajesh - [@Brajesh31 on GitHub](https://github.com/Brajesh31)
